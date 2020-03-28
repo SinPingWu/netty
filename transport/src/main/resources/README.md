@@ -1,0 +1,2 @@
+### 1. Bootstrap
+Bootstrap继承于AbstractBootstrap，用于客户端构建Channel，在服务端有ServerBootstrap,用户服务端构建Channel。在AbstractBootstrap中提供方法链的方式构建实体。
